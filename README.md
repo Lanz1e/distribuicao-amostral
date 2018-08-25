@@ -15,6 +15,6 @@ Para calcular com o **Cálculo Amostral** você pode inserir:
 - Nível de confiança (68%, 90%, 95%, 95.5%, 99% e, 99,7%)
 - Heterogeneidade (%)
 
-**_Para utilizar as calculadoras você instalar o [Java](https://www.java.com/download/) e executar o arquivo "CalculoAmostral.jar"_**
+**_Para utilizar as calculadoras você precisa instalar o [Java](https://www.java.com/download/) e executar o arquivo "CalculoAmostral.jar"_**
 
 Agradecimentos à professora Nanci de Oliveira. Espero que isso te ajude o quanto ajudou ela haha!
