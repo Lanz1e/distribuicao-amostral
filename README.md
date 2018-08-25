@@ -1,4 +1,4 @@
-# Distribuicao Amostral
+# Distribuição Amostral
 
 Aqui neste repositório é possivel encontrar dois softwares que realizam operações matemáticas voltadas para a 	**_Estatística Aplicada_**. 
 
