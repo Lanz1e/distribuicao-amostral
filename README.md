@@ -1,1 +1,19 @@
-# DistribuicaoAmostral
+# Distribuicao Amostral
+
+Aqui neste repositório é possivel encontrar dois softwares que realizam operações matemáticas voltadas para a 	**_Estatística Aplicada_**. 
+
+**Distribuição da Média Amostral** você pode calcular:
+- Variância
+- Desvio padrão
+- Desvio em relação à Média
+- Média
+Isso tudo com quantas Médias e Amostras que quiser! (yaaayy :kissing_closed_eyes: :ok_hand:)
+
+para calcular com o **Cálculo Amostral** você pode inserir:
+- População
+- Margem de erro (%)
+- Nível de confiança (68%, 90%, 95%, 95.5%, 99% e, 99,7%)
+- Heterogeneidade (%)
+
+**_Para utilizar os softwares você instalar o [Java] (https://www.java.com/download/) e executar o arquivo "CalculoAmostral.jar". Espero que goste!**
+Agradecimentos à professora Nanci de Oliveira. Espero que isso te ajude o quanto ajudou ela haha!
