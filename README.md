@@ -7,6 +7,7 @@ Aqui neste repositório é possivel encontrar dois softwares que realizam opera�
 - Desvio padrão
 - Desvio em relação à Média
 - Média
+
 Isso tudo com quantas Médias e Amostras que quiser! (Uhuul! :kissing_closed_eyes: :ok_hand:)
 
 Para calcular com o **Cálculo Amostral** você pode inserir:
