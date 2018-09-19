@@ -20,4 +20,4 @@ Para calcular com o **Cálculo Amostral** você pode inserir:
 
 Agradecimentos à professora Nanci de Oliveira. Espero que isso te ajude o quanto ajudou ela haha!
 
-**EN**A calculator to calculate samples and averages for Applied Statistics!
+**EN** A calculator to calculate samples and averages for Applied Statistics!
